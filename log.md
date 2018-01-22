@@ -34,7 +34,7 @@
 
 **Link to work:** [Declare JavaScript Objects as Variables](https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables)
 
-### Day 4: February 6, Monday
+### Day 4: February 5, Monday
 
 
 **Today's Progress**: Object Oriented and Functional Programming
