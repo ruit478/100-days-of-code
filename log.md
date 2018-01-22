@@ -4,7 +4,7 @@
 
 **Today's Progress**: Basic JavaScript
 
-**Thoughts:** 
+**Thoughts:** Strings in java are not exactly char[], they have its own type
 
 **Link to work:** [Basic JavaScript](https://www.freecodecamp.org/challenges/comment-your-javascript-code)
 
@@ -14,10 +14,9 @@
 
 **Thoughts:** 
 
-**Link to work:** [Basic JavaScript](https://www.freecodecamp.org/challenges/comment-your-javascript-code)
+**Link to work:** [Basic JavaScript](https://www.freecodecamp.org/challenges/use-bracket-notation-to-find-the-last-character-in-a-string)
 
 ### Day 2: January 24, Wednesday
-
 
 **Today's Progress**: Basic JavaScript
 
