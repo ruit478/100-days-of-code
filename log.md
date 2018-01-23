@@ -12,9 +12,9 @@
 
 **Today's Progress**: Basic JavaScript
 
-**Thoughts:** 
+**Thoughts:**  Started reviewing objects in js, weird that arrays can have multiple data types
 
-**Link to work:** [Basic JavaScript](https://www.freecodecamp.org/challenges/use-bracket-notation-to-find-the-last-character-in-a-string)
+**Link to work:** [Basic JavaScript](https://www.freecodecamp.org/challenges/updating-object-properties)
 
 ### Day 2: January 24, Wednesday
 
