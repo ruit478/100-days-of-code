@@ -20,9 +20,9 @@
 
 **Today's Progress**: Basic JavaScript
 
-**Thoughts:** 
+**Thoughts:** Did some work on js objects, reviews for and while loops, started basic Algorithm
 
-**Link to work:** [Basic JavaScript](https://www.freecodecamp.org/challenges/comment-your-javascript-code)
+**Link to work:** [Basic Algorithm Scripting](https://www.freecodecamp.org/challenges/repeat-a-string-repeat-a-string)
 
 ### Day 3: January 25, Thursday
 
