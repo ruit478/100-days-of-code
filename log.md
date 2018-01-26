@@ -27,7 +27,7 @@
 ### Day 3: January 25, Thursday
 
 
-**Today's Progress**: Object Oriented and Functional Programming
+**Today's Progress**: Intermediate Algorithm Scripting
 
 **Thoughts:** Finished basic Algorithm Scripting, really liked the ROT-13 exercise, those lambdas man... those lambdas
 
@@ -36,11 +36,11 @@
 ### Day 4: January 26, Friday
 
 
-**Today's Progress**: Stub
+**Today's Progress**: Intermediate Algorithm Scripting
 
-**Thoughts:**
+**Thoughts:** Continued working on Intermediate algorithm, stuff is starting to get challenging
 
-**Link to work:** Stub
+**Link to work:** [Intermediate Algorithm Scripting](https://www.freecodecamp.org/challenges/missing-letters)
 
 
 ### Day 5: January 27, Saturday
