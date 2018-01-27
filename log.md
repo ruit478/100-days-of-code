@@ -46,11 +46,11 @@
 ### Day 5: January 27, Saturday
 
 
-**Today's Progress**: Stub
+**Today's Progress**: Intermediate Algorithm Scripting
 
-**Thoughts:**
+**Thoughts:** Almost finishing Intermediate Algorithm, Implemented a simple eratosthenes sieve in a prime problem
 
-**Link to work:** Stub
+**Link to work:** [Intermediate Algorithm Scripting](https://www.freecodecamp.org/challenges/steamroller)
 
 
 ### Day 6: January 28, Sunday
