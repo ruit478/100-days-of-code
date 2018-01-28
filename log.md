@@ -56,11 +56,11 @@
 ### Day 6: January 28, Sunday
 
 
-**Today's Progress**: Stub
+**Today's Progress**: Finished Intermediate Algorithm Scripting, going back to start HTML/CSS
 
-**Thoughts:**
+**Thoughts:** Did some work on html css and then went to Advanced Algorithm Scripting
 
-**Link to work:** Stub
+**Link to work:** [Advanced Algorithm Scripting] (https://www.freecodecamp.org/challenges/exact-change)
 
 
 ### Day 7: January 29, Monday
