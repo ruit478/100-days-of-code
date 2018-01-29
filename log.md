@@ -66,11 +66,11 @@
 ### Day 7: January 29, Monday
 
 
-**Today's Progress**: Stub
+**Today's Progress**: Today I did a Erathosthenes sieve implementation in java and did the framework for ticTacToe game
 
-**Thoughts:**
+**Thoughts:** Found a really nice book that has lots of programming ideas
 
-**Link to work:** Stub
+**Link to work:** [Programmers idea book](http://www.coderslexicon.com/downloads/the-programmers-idea-book/)
 
 
 ### Day 8: January 30, Tuesday
