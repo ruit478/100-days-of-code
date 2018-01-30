@@ -76,11 +76,11 @@
 ### Day 8: January 30, Tuesday
 
 
-**Today's Progress**: Stub
+**Today's Progress**: Partially implemented Djikstra's algorithm, did some more Advanced algorithm
 
 **Thoughts:**
 
-**Link to work:** Stub
+**Link to work:** [Advanced Algorithm Scripting](https://www.freecodecamp.org/challenges/pairwise)
 
 ### Day 9: January 31, Wednesday
 
