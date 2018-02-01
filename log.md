@@ -94,11 +94,11 @@
 ### Day 10: February 1, Thursday
 
 
-**Today's Progress**: Stub
+**Today's Progress**: Finished above problem and this new one, moving at a nice pace. Tried functional java
 
-**Thoughts:**
+**Thoughts:** Java streams are really usefull
 
-**Link to work:** Stub
+**Link to work:** https://www.reddit.com/r/dailyprogrammer/comments/7cnqtw/20171113_challenge_340_easy_first_recurring/
 
 ### Day 11: February 2, Friday
 
