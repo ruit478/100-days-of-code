@@ -85,11 +85,11 @@
 ### Day 9: January 31, Wednesday
 
 
-**Today's Progress**: Stub
+**Today's Progress**: Worked on a neat little problem, still haven't figured it out, will continue tomorrow 
 
 **Thoughts:**
 
-**Link to work:** Stub
+**Link to work:** [Reddit post] (https://www.reddit.com/r/dailyprogrammer/comments/7qn07r/20180115_challenge_347_easy_how_long_has_the/)
 
 ### Day 10: February 1, Thursday
 
