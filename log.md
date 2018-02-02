@@ -98,16 +98,17 @@
 
 **Thoughts:** Java streams are really usefull
 
-**Link to work:** https://www.reddit.com/r/dailyprogrammer/comments/7cnqtw/20171113_challenge_340_easy_first_recurring/
+**Link to work:** [First Recurring Character](https://www.reddit.com/r/dailyprogrammer/comments/7cnqtw/20171113_challenge_340_easy_first_recurring/)
 
 ### Day 11: February 2, Friday
 
 
-**Today's Progress**: Stub
+**Today's Progress**: Worked on two programming problems, one involving numbers and another around building a calculator
 
 **Thoughts:**
 
-**Link to work:** Stub
+**Link to work:** [Adding Calculator](https://www.reddit.com/r/dailyprogrammer/comments/6ze9z0/20170911_challenge_331_easy_the_adding_calculator/)
+				  [Cannibal Numbers](https://www.reddit.com/r/dailyprogrammer/comments/76qk58/20171016_challenge_336_easy_cannibal_numbers/)
 
 ### Day 11: February 3, Saturday
 
