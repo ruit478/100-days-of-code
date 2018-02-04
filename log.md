@@ -113,20 +113,22 @@
 ### Day 11: February 3, Saturday
 
 
-**Today's Progress**: Stub
+**Today's Progress**: Worked on one problem involving permutations
 
 **Thoughts:**
 
-**Link to work:** Stub
+**Link to work:** [Consecutive Distance Rating](https://www.reddit.com/r/dailyprogrammer/comments/759fha/20171009_challenge_335_easy_consecutive_distance/)
 
 ### Day 11: February 4, Sunday
 
 
-**Today's Progress**: Stub
+**Today's Progress**: Worked on two more problems, one involving lists  
 
-**Thoughts:**
+**Thoughts:** Learned about Heap's Algorithm
 
-**Link to work:** Stub
+**Link to work:** [Heap's Algorithm](https://en.wikipedia.org/wiki/Heap%27s_algorithm)
+				  [Packet Assembler](https://www.reddit.com/r/dailyprogrammer/comments/72ivih/20170926_challenge_333_easy_packet_assembler/)
+				  [Subset sum](https://www.reddit.com/r/dailyprogrammer/comments/68oda5/20170501_challenge_313_easy_subset_sum/)
 
 ### Day 11: February 5, Monday
 
